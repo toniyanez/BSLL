@@ -1,0 +1,3 @@
+﻿Scenario_name,Trade_tariff_multiplier,Transport_cost_multiplier,Transport_time_multiplier,Operations_multiplier,Route_ORG_DEST,Route_status
+BASELINE,1,1,1,1,ALL USA,OK
+125%_CN,1.25,1.25,1,1,CN US,OK

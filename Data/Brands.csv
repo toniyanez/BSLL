@@ -1,0 +1,12 @@
+﻿brand_id,brand,Description,Rev_share_contribution,Competitors
+BSN_1,Bushnell,"The flagship brand offering binoculars, riflescopes, spotting scopes, and other optical equipment.",50,"Leupold & Stevens,Vortex Optics,Nikon Sport Optics,Swarovski Optik ,Zeiss Sports Optics"
+BSG_1,Bushnell Golf,Specializes in golf rangefinders and GPS devices.,20,"Garmin, Precision Pro Golf,Voice Caddie,Blue Tees Golf,GolfBuddy"
+SIM_1,Simmons Optics,"Provides a range of optical products, including riflescopes and binoculars.",10,"Tasco,Barska,CenterPoint (Crosman),UTG/Leapers,Monstrum Tactical"
+MIL_1,Millett,Known for tactical optics and mounts.,3,"Trijicon, Aimpoint,Primary Arms,EOTech,Vortex Optics"
+TAS_1,Tasco,"Offers telescopes, binoculars, and other optical instruments.",7,"Celestron,Meade Instruments,Orion Telescopes,Gskyer,SVBONY"
+BUT_1,Butler Creek,"Produces scope covers, slings, and other shooting accessories.",3,
+HOP_1,Hoppes,Renowned for gun cleaning solvents and accessories.,3,
+STP_1,Stoney Point,Manufactures shooting rests and accessories.,0.5,
+UNM_1,Uncle Mikes,"Offers holsters, slings, and law enforcement gear.",2,
+FIA_1,Final Approach, Focuses on waterfowl hunting gear.,1,
+BLG_1,Blackwater Gear,Provides tactical gear and accessorie,0.5,

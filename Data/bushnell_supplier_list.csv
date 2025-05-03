@@ -1,0 +1,55 @@
+﻿supplier_ID,supplier_name,supplier_country_code,product_family_supported,Easy_replacement
+SUP001,Light Optical Works,CN,Binoculars,1
+SUP002,Bosma Tech,CN,Binoculars,1
+SUP003,Kamakura Kogaku,JP,Binoculars,1
+SUP004,Docter Optic,DE,Binoculars,1
+SUP005,Guangzhou Long Wang Optics,CN,Binoculars,1
+SUP006,Shenzhen GenericOptics,CN,Binoculars,1
+SUP007,Jingyi Optics,CN,Riflescopes,3
+SUP008,Shenzhen Ricoh,CN,Riflescopes,3
+SUP009,Docter Optic,DE,Riflescopes,3
+SUP010,Gamo OEM,CN,Riflescopes,3
+SUP011,Weihua Precision,CN,Riflescopes,3
+SUP012,Vector Optics,CN,Riflescopes,3
+SUP013,Lishen Optoelectronics,MY,Rangefinders,2
+SUP014,LaserWorks,CN,Rangefinders,2
+SUP015,Bolymedia,CN,Rangefinders,2
+SUP016,Holosun OEM,CN,Rangefinders,2
+SUP017,BHCnav,CN,Rangefinders,2
+SUP018,SNDWAY Range Systems,CN,Rangefinders,2
+SUP019,SuntekCam,CN,Trail Cameras,2
+SUP020,Bolymedia,CN,Trail Cameras,2
+SUP021,Foxelli Tech,CN,Trail Cameras,2
+SUP022,Campark Electronics,CN,Trail Cameras,2
+SUP023,Meidase OEM,CN,Trail Cameras,2
+SUP024,GardePro,CN,Trail Cameras,2
+SUP025,Truglo OEM,PH,Red Dot Sights,2
+SUP026,Holosun,CN,Red Dot Sights,2
+SUP027,Vector Optics,CN,Red Dot Sights,2
+SUP028,Feyachi,CN,Red Dot Sights,2
+SUP029,Sig Sauer OEM,PH,Red Dot Sights,2
+SUP030,NcStar,CN,Red Dot Sights,2
+SUP031,Shenzhen SportTech,CN,Radar Guns,1
+SUP032,Bushnell In-House,CN,Radar Guns,1
+SUP033,SpeedTrac,CN,Radar Guns,1
+SUP034,JUGS Sports OEM,CN,Radar Guns,1
+SUP035,NetPlayz OEM,CN,Radar Guns,1
+SUP036,Speed Gun Co.,CN,Radar Guns,1
+SUP037,Navico OEM,VN,GPS Devices,2
+SUP038,Realtek OEM,TW,GPS Devices,2
+SUP039,BHCnav,CN,GPS Devices,2
+SUP040,Shenzhen Lingtu Tech,CN,GPS Devices,2
+SUP041,Yongnuo GPS,CN,GPS Devices,2
+SUP042,Thinkrace Tech,CN,GPS Devices,2
+SUP043,Kowa Precision,PH,Spotting Scopes,3
+SUP044,Bosma Tech,CN,Spotting Scopes,3
+SUP045,Docter Optic,DE,Spotting Scopes,3
+SUP046,Longview Optics,CN,Spotting Scopes,3
+SUP047,Shenzhen ScopeWorks,CN,Spotting Scopes,3
+SUP048,Meade OEM,CN,Spotting Scopes,3
+SUP049,Synta Technology,CN,Telescopes,2
+SUP050,Meade OEM,CN,Telescopes,2
+SUP051,Celestron OEM,CN,Telescopes,2
+SUP052,GSO Taiwan,TW,Telescopes,2
+SUP053,Orion Telescopes,CN,Telescopes,2
+SUP054,Tokyo Lensworks,JP,Telescopes,2

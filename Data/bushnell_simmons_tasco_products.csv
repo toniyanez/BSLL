@@ -1,0 +1,80 @@
+﻿brand_id,SKU,product_name,description,price (USD),product Family,profit_margin
+BUSH001,191042,Legend Ultra HD 10x42 Binoculars,"ED Prime Glass, Ultra Wide Band Coating, and RainGuard HD.",$249.99,Binoculars,50
+BUSH001,198042,Legend Ultra HD 8x42 Binoculars,"Wide field of view, ED Prime Glass, lightweight magnesium chassis.",$229.99,Binoculars,50
+BUSH001,BP1042B,Prime 10x42 Binoculars,"Multi-coated lenses, EXO Barrier, waterproof and fog-proof.",$149.99,Binoculars,50
+BUSH001,119930C,CelluCORE 20 Trail Camera,"20MP, low-glow LEDs, 80ft night range, HD video, Verizon network.",$130.00,Trail Cameras,50
+BUSH001,191144,Trophy TRS-25 Red Dot Sight,"1x20mm red dot, 3 MOA reticle, waterproof, fog-proof.",$97.81,Red Dot Sights,50
+BUSH001,202208,Velocity Speed Gun,Radar gun measuring 10-110 mph. Great for sports.,$119.99,Radar Guns,50
+BUSH001,202540,Pro X3+ Laser Rangefinder,"Rangefinder with slope, dual display, magnetic mount.",$499.99,Rangefinders,50
+BUSH001,362310,Tour V6 Shift Golf Rangefinder,"Slope-Switch tech, 6x magnification, JOLT confirmation.",$329.99,Rangefinders,50
+BUSH001,368224,Wingman View Golf GPS Speaker,"Audio + GPS, color display, audible yardage callouts.",$149.99,GPS Devices,50
+BUSH001,368226,Wingman Mini GPS Golf Speaker,Compact Bluetooth speaker with GPS distances.,$79.99,GPS Devices,50
+BUSH001,BP1250,Prime 12x50 Binoculars,"12x magnification, 50mm objective, waterproof.",$179.95,Binoculars,50
+BUSH001,BSHNRGSPOT,Nitro 20-60x65 Spotting Scope,"ED Glass, sunshade, waterproof/fogproof.",$499.00,Spotting Scopes,50
+BUSH001,LP1300SBL,Prime 1300 Laser Rangefinder,"1300-yard range, ARC tech, EXO coating.",$199.99,Rangefinders,50
+BUSH001,BSHNRFLGOLF,Ion Edge GPS Golf Watch,"38K courses, auto hole advance, distances.",$149.99,GPS Devices,50
+BUSH001,BUSHSPTRFLX,RXS-250 Reflex Sight,"Premium red dot, long battery life, rugged.",$249.99,Red Dot Sights,50
+BUSH001,BSHNELITE10X,Elite 10x42 Binoculars,"Top clarity, dielectric coating, wide view.",$349.99,Binoculars,50
+BUSH001,119932CB,CelluCORE 30 Trail Camera,"30MP, dual SIM (Verizon/AT&T), mobile-friendly.",$149.99,Trail Cameras,50
+BUSH001,BUSH-ROF2,ROF-2 Rangefinder,Laser rangefinder for hunting/shooting.,$279.00,Rangefinders,50
+BUSH001,119904A,Trophy Cam HD Essential E3,"12MP, 0.3s trigger, 720p, 100-ft IR night.",$119.00,Trail Cameras,50
+BUSH001,BUSH-HYBRSCP,Hybrid Laser-GPS Rangefinder,"Laser + GPS, dual readouts, for golfers.",$399.99,Rangefinders,50
+BUSHG01,202442,Tour V5 Shift Patriot Pack,"Slope mode toggle, JOLT tech, magnetic cart mount.",$299.99,Rangefinders,50
+BUSHG01,362130,Phantom 2 Golf GPS,"Large display, auto course recognition, shot distance.",$129.99,GPS Devices,50
+BUSHG01,368241,Wingman GPS Speaker,"Audio yardages, Bluetooth speaker, magnetic mount.",$129.99,GPS Devices,50
+BUSHG01,362310,Tour V6 Shift Laser Rangefinder,"Up to 1300 yards, slope switch, JOLT feedback.",$329.99,Rangefinders,50
+BUSHG01,361910,Ion Elite GPS Watch,"Color touchscreen, slope distances, 38K courses.",$199.99,GPS Devices,50
+BUSHG01,360140,Pro XE Golf Rangefinder,"Slope with elements, BITE mount, waterproof.",$499.99,Rangefinders,50
+BUSHG01,361920,Ion Edge Watch,"Auto hole advance, long battery, waterproof.",$129.99,GPS Devices,50
+BUSHG01,362220,Phantom 2 Slope GPS,"Distance with slope-adjusted readings, easy read.",$149.99,GPS Devices,50
+BUSHG01,362520,Excel GPS Rangefinder Watch,"Bluetooth course updates, preloaded courses.",$179.99,GPS Devices,50
+BUSHG01,368120,Wingman Mini Golf Speaker,"Small form, audible GPS distances.",$79.99,GPS Devices,50
+BUSHG01,360950,Hybrid Laser-GPS Rangefinder,Combines laser & GPS distances on screen.,$399.99,Rangefinders,50
+BUSHG01,361230,Neo Ion 2 GPS Watch,"Long battery, easy distance display.",$99.99,GPS Devices,50
+BUSHG01,362140,Excel Watch Bundle,"Includes charger & band, 36K preloaded courses.",$199.99,GPS Devices,50
+BUSHG01,361100,Neo Ghost GPS,"Simple, compact, front/center/back distances.",$89.99,GPS Devices,50
+BUSHG01,362720,Pro X2 Rangefinder,"Slope-Switch, dual display, waterproof.",$429.99,Rangefinders,50
+BUSHG01,360200,Yardage Pro Scout,Compact laser distance measurement.,$199.99,Rangefinders,50
+BUSHG01,361810,Neo X GPS Watch,"Fast satellite lock-in, course-ready.",$99.99,GPS Devices,50
+BUSHG01,362110,Phantom Handheld GPS,"Clip-on, easy screen, 36K+ courses.",$99.99,GPS Devices,50
+BUSHG01,362750,Tour Z6 JOLT,Compact rangefinder with JOLT vibrational feedback.,$399.99,Rangefinders,50
+BUSHG01,368200,Wingman Remote,Replacement for Wingman speaker remote.,$19.99,GPS Devices,50
+SIM001,S8P41240,Simmons 8-Point 4-12x40 Riflescope,"Fully coated optics, waterproof/fogproof.",$89.99,Riflescopes,50
+SIM001,S51012,Simmons ProTarget 3-9x40 Scope,"Matte finish, high contrast, precise turrets.",$99.99,Riflescopes,50
+SIM001,S1300,Simmons Volt 1300 Laser Rangefinder,"Angle compensation, water resistant.",$149.99,Rangefinders,50
+SIM001,S846,Simmons Venture 8x42 Binoculars,"Rubber armor, multi-coated lenses.",$79.99,Binoculars,50
+SIM001,S510514,.22 MAG 4x32 Riflescope,"Quick target acquisition, Truplex reticle.",$59.99,Riflescopes,50
+SIM001,S112,Simmons ProHunter 4x32,"Great for rimfire, fog/waterproof.",$49.99,Riflescopes,50
+SIM001,S997,Simmons Blazer 10x42 Binoculars,"Compact, good field of view, multi-coated.",$59.99,Binoculars,50
+SIM001,S502,Simmons 20-60x60 Spotting Scope,"Fully coated, tabletop tripod included.",$129.99,Spotting Scopes,50
+SIM001,S5151239,ProTarget 3-12x39 Scope,"Compact reticle, for varmint/range.",$109.99,Riflescopes,50
+SIM001,S3042,Venture Folding Binoculars 8x21,"Compact, folding design, travel-ready.",$29.99,Binoculars,50
+SIM001,S516520,ProTarget Rimfire 2-7x32,".22 LR parallax setting, rings included.",$89.99,Riflescopes,50
+SIM001,S748,Simmons Rangefinder 600,"LCD display, up to 600 yards.",$99.99,Rangefinders,50
+SIM001,S832,Venture 10x32 Binoculars,"Compact roof prism design, rubber armor.",$59.99,Binoculars,50
+SIM001,S501,Simmons Compact Spotting Scope 10-30x,Compact scope for field/hunting.,$69.99,Spotting Scopes,50
+SIM001,S1210,Volt 600 Rangefinder,Basic laser rangefinder for short distances.,$79.99,Rangefinders,50
+SIM001,S114,ProHunter 3-9x32 Scope,"Truplex reticle, reliable zero, rugged.",$69.99,Riflescopes,50
+SIM001,S3012,ProSport 4-12x40 Riflescope,"Multi-coated glass, long-range accuracy.",$89.99,Riflescopes,50
+SIM001,S4032,.22 MAG 3-9x32 Rimfire Scope,"Includes mounting rings, waterproof.",$69.99,Riflescopes,50
+SIM001,S3055,Simmons 10x50 Binoculars,"Porro prism, high power, budget-friendly.",$49.99,Binoculars,50
+SIM001,S6090,Simmons 8x21 Compact Binoculars,"Lightweight, foldable, basic entry optics.",$19.99,Binoculars,50
+TAS001,TSC103060,Tasco Novice 60x700mm Telescope,Refractor telescope with alt-azimuth mount.,$79.99,Telescopes,50
+TAS001,TS100736,Essentials 10x25 Binoculars,"Roof prism binoculars, compact and lightweight.",$19.99,Binoculars,50
+TAS001,TSB100850,Essentials 10x50 Binoculars,"Porro prism binoculars, rubber armor.",$49.99,Binoculars,50
+TAS001,TSR3960,Rimfire 3-9x32 Riflescope,".22 scope with rings, fog/waterproof.",$39.99,Riflescopes,50
+TAS001,TSR4032,.22 MAG 4x32 Riflescope,Fixed power scope with Truplex reticle.,$29.99,Riflescopes,50
+TAS001,TSR3925,Sportsman 3-9x25 Scope,Lightweight scope for plinking.,$34.99,Riflescopes,50
+TAS001,TSB8425,Essentials 8x42 Binoculars,Affordable outdoor binoculars.,$39.99,Binoculars,50
+TAS001,TSM302060,Spotting Scope 20-60x60,"Tripod included, water-resistant.",$89.99,Spotting Scopes,50
+TAS001,TSB350,Essentials 7x35 Binoculars,Wide angle for sports/nature.,$24.99,Binoculars,50
+TAS001,TSB200,12x25 Essentials Binoculars,Compact fold-down model.,$21.99,Binoculars,50
+TAS001,TSB160,16x32 Essentials Binoculars,"High magnification, compact.",$29.99,Binoculars,50
+TAS001,TSR3080,World Class 3-9x40 Scope,"Wide view, durable.",$59.99,Riflescopes,50
+TAS001,TST114075,Luminova 114x500 Telescope,Entry-level reflector telescope.,$119.99,Telescopes,50
+TAS001,TSR41040,Varmint 4-16x40 Scope,Long-range scope.,$79.99,Riflescopes,50
+TAS001,TSR3060,World Class 3-9x50 Scope,"Bright, large-objective scope.",$69.99,Riflescopes,50
+TAS001,TSR2032,.22 Rimfire 2-7x32 Scope,"Simple, adjustable scope.",$34.99,Riflescopes,50
+TAS001,TSB880,8-24x25 Zoom Binoculars,"Variable zoom, compact.",$32.99,Binoculars,50
+TAS001,TST49061800,SpaceStation 60x800mm Telescope,Planet observation.,$89.99,Telescopes,50
+TAS001,TSB8325,Essentials 8x32 Binoculars,Compact mid-size binocs.,$27.99,Binoculars,50
